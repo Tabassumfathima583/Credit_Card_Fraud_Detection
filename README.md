@@ -6,11 +6,13 @@ A machine learning project to detect fraudulent credit card transactions using X
 
 ## 📁 Project Structure
 Credit_Card_Fraud_Detection/
- creditcardfraud.ipynb # Jupyter Notebook: data analysis & model training
- xgb_creditcard_fraud_model.pkl # Trained XGBoost model
- app.py # Streamlit app for fraud prediction
- requirements.txt # Python packages required
- README.md # Project description
+│
+├── creditcardfraud.ipynb             # Jupyter Notebook: data analysis & model training
+├── xgb_creditcard_fraud_model.pkl    # Trained XGBoost model
+├── app.py                            # Streamlit app for fraud prediction
+├── requirements.txt                  # Python packages required
+└── README.md                         # Project description
+
 
 ---
 
