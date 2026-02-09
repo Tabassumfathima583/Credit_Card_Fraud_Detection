@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 A machine learning project built using **Python** and **Streamlit** to detect fraudulent credit card transactions.  
 This project demonstrates an end-to-end ML workflow: data preprocessing, model training, feature importance analysis, and interactive predictions via a web app.
