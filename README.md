@@ -23,6 +23,18 @@ The dataset contains anonymized credit card transactions with 30 features (`Time
 
 ---
 
+## 📌 Example Usage & Screenshots
+
+### 🖼 Screenshots
+Below are screenshots of the app interface and outputs:
+
+![Input Screen](examples/input_screen.png)
+![Normal Transaction](examples/prediction_normal.png)
+![Fraud Prediction](examples/prediction_fraud.png)
+![Feature Importance](examples/feature_importance.png)
+
+
+
 ## 🚀 How to Run
 
 1. Clone this repository:
